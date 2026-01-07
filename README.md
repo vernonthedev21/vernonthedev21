@@ -1,7 +1,3 @@
-## Full Stack Developer.
-
-- 🔭 I’m currently working on Flutter and Laravel Apps.
-
 # Hi, I'm vernonthedev21 👋
 
 **🚀 Full Stack Developer | Mobile App Specialist | Laravel Architect**
