@@ -5,7 +5,7 @@
 <h4>Get In Touch at <a href="mailto:vernonthedev@gmail.com" target="_blank">vernonthedev@gmail.com</a></h4>
 
 ---
-
+<!--
 ## 🌟 About Me
 
 I’m a **full-stack engineer** dedicated to building high-performance mobile and web applications. My expertise lies in the "FL" stack—**Flutter** for crafting beautiful, native-quality interfaces and **Laravel** for building secure, scalable backends. I bridge the gap between elegant design and robust logic.
@@ -60,3 +60,5 @@ Reusable boilerplates to accelerate Flutter and Laravel development.
 | 🔐 Auth Master | [View Repo](https://github.com/vernonthedev21) | Advanced OAuth2 and Biometric login implementation. |
 
 </details>
+
+-->
